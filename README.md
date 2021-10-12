@@ -1,5 +1,6 @@
 # NSCOM02-IP-Addresses
-_An IP Address tool that includes Subnet Calculator, Checking of Address Class, and Checking of Address Type._
+_An IP Address tool that includes Subnet Calculator, Checking of Address Class, and Checking of Address Type._\
+Date Accomplished: September 25, 2020
 
 ## Use
 This project allows users to learn more about IP Addresses through different tools.
